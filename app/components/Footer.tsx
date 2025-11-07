@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { FaGithub, FaMedium, FaPinterest, FaTwitch } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 const Footer = () => {
   return (
@@ -90,21 +92,28 @@ const Footer = () => {
             </h3>
             <div className="flex gap-2 mb-4">
               {[
-                "bg-red-500",
-                "bg-black",
-                "bg-gray-500",
-                "bg-violet-700",
-                "bg-green-500",
-              ].map((color, idx) => (
+                { color: "bg-red-500", Icon: <FaPinterest /> },
+                { color: "bg-black", Icon: <FaXTwitter /> },
+                { color: "bg-gray-500", Icon: <FaGithub /> },
+                { color: "bg-violet-700", Icon: <FaTwitch /> },
+                { color: "bg-green-500", Icon: <FaMedium /> },
+              ].map((link, idx) => (
                 <Link
                   key={idx}
                   href="/"
-                  className={`size-8 flex items-center justify-center rounded-full ${color}`}
-                />
+                  className={`size-8 flex items-center justify-center rounded-full ${link.color}`}
+                >
+                  {link.Icon}
+                </Link>
               ))}
             </div>
             <p className="font-medium mb-2">Download the App Now</p>
-            <div className="w-40 h-40 bg-white rounded-md"></div>
+            <div className="size-40 rounded-md">
+              <img
+                src="https://mahadevbooks.net/wp-content/uploads/2025/11/Mahadev-Book-Mobile-App-Download-1007x1024.jpg"
+                alt="qr"
+              />
+            </div>
           </div>
         </div>
       </section>

@@ -45,19 +45,19 @@ const faqData = [
 export default function Home() {
   return (
     <div className="min-h-screen w-full bg-black text-white">
-      <Image
-        src={"/"}
+      <img
+        src={
+          "https://mahadevbooks.net/wp-content/uploads/2025/08/mahadev-book-id-1800-X-600-1-1024x341.webp"
+        }
         alt="banner"
-        height={640}
-        width={1100}
-        className="h-[640px] w-full"
+        className="w-full xl:px-10"
       />
       <main className="w-full max-w-5xl mx-auto px-1 md:px-8 py-10 flex flex-col items-center gap-2">
         <h1 className="text-lg sm:text-xl md:text-3xl font-medium text-center">
           Join Our Mahadev Book Family – Login & Play Online Today
         </h1>
 
-        <p className="w-full max-w-3xl text-center text-sm md:text-base leading-relaxed">
+        <p className="w-full text-center text-sm md:text-base leading-relaxed mb-2">
           We, Mahadev Book is one of the top notch online betting & Gaming
           official website in India. We offer premium betting ID to Indian
           player, who are ready to place their bet on online cricket betting,
@@ -77,7 +77,7 @@ export default function Home() {
           Get Your ID Now
         </button>
 
-        <div className="w-full max-w-md bg-gradient-to-r from-red-500 to-blue-500 rounded-2xl p-1">
+        <div className="w-full max-w-md bg-linear-to-r from-red-500 to-blue-500 rounded-2xl p-1 mt-4">
           <form className="w-full bg-black rounded-2xl px-6 py-8 flex flex-col gap-6 hover:scale-95 transition-transform">
             <h2 className="text-lg md:text-xl font-medium text-center">
               Access Your Mahadev Book Official Account Here
@@ -140,7 +140,11 @@ export default function Home() {
                 offers quick, secure, and enjoyable online betting.
               </p>
             </div>
-            <div className="w-full h-64 md:h-auto bg-red-800 rounded-xl"></div>
+            <img
+              className="h-full"
+              src="https://mahadevbooks.net/wp-content/uploads/2025/10/who-we-are-at-Mahadevbook-1024x683.webp"
+              alt="img"
+            />
           </div>
           <div className="w-full">
             <div className="w-full">
@@ -210,9 +214,12 @@ export default function Home() {
               </ol>
             </div>
           </div>
-          <div className="h-28 w-full text-center bg-red-900 flex items-center justify-center text-white font-semibold">
-            banner
-          </div>
+          <img
+            src={
+              "https://mahadevbooks.net/wp-content/uploads/2025/09/Join-with-1core-MahadevBook-Users-%E2%80%93-A-trusted-online-betting-platform-1-1024x151-1.webp"
+            }
+            alt="img"
+          />
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
             <div className="w-full">
               <h2
@@ -239,7 +246,13 @@ export default function Home() {
                 Register Mahadev Book Account
               </button>
             </div>
-            <div className="w-full h-64 md:h-auto bg-red-800 rounded-xl"></div>
+            <img
+              className="h-full"
+              src={
+                "https://mahadevbooks.net/wp-content/uploads/2025/10/MahadevBook-account-register-1024x683.webp"
+              }
+              alt="img1"
+            />
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
             <div className="w-full">
@@ -270,6 +283,29 @@ export default function Home() {
               </ol>
               <button className="px-6 py-2 bg-lime-800 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform text-white">
                 Mahadev Book Account Password Reset
+              </button>
+            </div>
+            <div className="w-full">
+              <h2
+                className="text-xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-2
+              "
+              >
+                Mahadev Book Direct Login For Returning Players
+              </h2>
+              <p className="text-gray-200 text-sm md:text-base leading-relaxed">
+                Easy steps to Official login your mahadev book Account.
+              </p>
+              <p className="text-lg mt-4 text-white">
+                How to Reset Your Password:
+              </p>
+              <ol className="list-decimal px-6 mt-4 space-y-2 text-sm md:text-base">
+                <li>Step 1: Click the “login” button.</li>
+                <li>Step 2: Enter ID & password.</li>
+                <li>Step 3: Complete the OTP verification.</li>
+                <li>Step 4. Click submit and successfully login.</li>
+              </ol>
+              <button className="px-6 py-2 bg-lime-800 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform text-white">
+                Mahadev Book Direct Login
               </button>
             </div>
           </div>
@@ -315,13 +351,22 @@ export default function Home() {
                 Scan the QR Code for Direct App Download
               </p>
 
-              <div className="size-40 bg-red-800"></div>
+              <img
+                className="size-40"
+                src="https://mahadevbooks.net/wp-content/uploads/2025/11/Mahadev-Book-Mobile-App-Download-295x300.jpg"
+                alt="qr img"
+              />
 
               <button className="px-6 py-2 bg-green-500 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
                 <FaAndroid /> Play Now – Download Android App
               </button>
             </div>
-            <div className="h-96 w-full bg-red-700"></div>
+            <img
+              src={
+                "https://mahadevbooks.net/wp-content/uploads/2025/10/download-mahadev-book-app.webp"
+              }
+              alt="img"
+            />
           </div>
           <div className="w-full">
             <h2
@@ -612,7 +657,12 @@ export default function Home() {
               </div>
 
               {/* Visual Block */}
-              <div className="w-full h-60 md:h-72 bg-red-700 rounded-xl"></div>
+              <img
+                src={
+                  "https://mahadevbooks.net/wp-content/uploads/2025/10/What-is-Mahadev-Book-ID-1024x683.webp"
+                }
+                alt="img2"
+              />
             </div>
           </div>
 
@@ -722,7 +772,10 @@ export default function Home() {
               </div>
 
               {/* Visual Block */}
-              <div className="w-full h-64 md:h-96 bg-red-700 rounded-xl"></div>
+              <img
+                src="https://mahadevbooks.net/wp-content/uploads/2025/11/how-to-get-verified-mahadev-book-account-id-using-whatsapp-trusted-betting-platform.webp"
+                alt="img"
+              />
             </div>
           </div>
           <div className="w-full">
@@ -805,7 +858,10 @@ export default function Home() {
               funds, and start online gaming with live cricket betting, casino
               games, and secure, responsible play anytime, anywhere in India.
             </p>
-            <div className="h-28 w-full bg-red-600"></div>
+            <img
+              src="https://mahadevbooks.net/wp-content/uploads/2025/09/Join-with-1core-MahadevBook-Users-%E2%80%93-A-trusted-online-betting-platform-1-1024x151-1.webp"
+              alt="img"
+            />
           </div>
           <div className="w-full max-w-6xl mx-auto px-4 py-2">
             <h2 className="text-xl md:text-2xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-6">
@@ -852,20 +908,6 @@ export default function Home() {
                 </div>
               ))}
             </div>
-          </div>
-          <div className="w-full">
-            <h2
-              className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4
-              "
-            >
-              How Our Platform Works – Fair Play Is Our Priority
-            </h2>
-            <p className="text-gray-200 my-2">
-              Discover how our Mahadev Book works: create your account, deposit
-              funds, and start online gaming with live cricket betting, casino
-              games, and secure, responsible play anytime, anywhere in India.
-            </p>
-            <div className="h-28 w-full bg-red-600"></div>
           </div>
           <div className="w-full">
             <h2
@@ -965,7 +1007,7 @@ export default function Home() {
             <p className="text-gray-200 text-center -mt-2">
               We Support Easy, Trusted Payment Options for Your Convenience
             </p>
-            <div className="h-28 w-full bg-red-700 mt-4"></div>
+            <div className="h-28 w-full mt-4"></div>
           </div>
 
           <div className="w-full">
@@ -1297,6 +1339,8 @@ export default function Home() {
                   date: "November 7, 2025",
                   excerpt:
                     "Online betting in India has become more exciting than ever — and Mahadev Book is leading the way with its simple, secure, and fast registration.",
+                  imgUrl:
+                    "https://mahadevbooks.net/wp-content/uploads/2025/11/How-to-create-verifiy-your-mahadev-book-id-trusted-platform-300x200.webp",
                 },
                 {
                   title:
@@ -1304,6 +1348,8 @@ export default function Home() {
                   date: "November 7, 2025",
                   excerpt:
                     "Online betting in India has become more exciting than ever — and Mahadev Book is leading the way with its simple, secure, and fast registration.",
+                  imgUrl:
+                    "https://mahadevbooks.net/wp-content/uploads/2025/11/Get-instant-mahadev-book-id-step-by-step-300x200.webp",
                 },
                 {
                   title:
@@ -1311,13 +1357,15 @@ export default function Home() {
                   date: "November 7, 2025",
                   excerpt:
                     "Online betting has become a favourite pastime for millions of Indian players — and Mahadev Book stands at the center of it all.",
+                  imgUrl:
+                    "https://mahadevbooks.net/wp-content/uploads/2025/11/Mahadev-Book-Official-website-register-login-start-betting-300x200.webp",
                 },
               ].map((news, idx) => (
                 <div
                   key={idx}
                   className="border-2 border-yellow-600 rounded-xl overflow-hidden bg-black"
                 >
-                  <div className="h-52 w-full bg-red-800 rounded-t-xl"></div>
+                  <img src={news.imgUrl} alt="card img" />
                   <div className="px-4 py-4">
                     <p className="text-white font-medium text-lg mb-1">
                       {news.title}
