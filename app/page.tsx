@@ -6,37 +6,37 @@ import FaqAccordion from "./components/FaqAccordion";
 
 const faqData = [
   {
-    question: "What is Mahadev Book?",
+    question: "What is Win99 Book?",
     answer:
-      "Mahadev Book provides an organized platform designed to facilitate online betting for various sports such as cricket, football, tennis, and kabaddi as well as a casino section targeting short play formats.",
+      "Win99 Book provides an organized platform designed to facilitate online betting for various sports such as cricket, football, tennis, and kabaddi as well as a casino section targeting short play formats.",
   },
   {
-    question: "How do I create a Mahadev Book ID?",
+    question: "How do I create a Win99 Book ID?",
     answer:
       "Access the official site. Click sign up. Enter your name, phone number, and email address. Follow the instructions to confirm your phone number with OTP. Create a secure password and agree to the terms.",
   },
   {
-    question: "How can I login to my Mahadev Book account?",
+    question: "How can I login to my Win99 Book account?",
     answer:
-      "Open the official site or, if you have downloaded the app, the app. Enter your Mahadev Book login details (ID and Password). Complete any other verification steps such as OTP.",
+      "Open the official site or, if you have downloaded the app, the app. Enter your Win99 Book login details (ID and Password). Complete any other verification steps such as OTP.",
   },
   {
-    question: "Is Mahadev Book safe and trustworthy?",
+    question: "Is Win99 Book safe and trustworthy?",
     answer:
       "The platform takes security very seriously and employs OTP to verify user logins, a process for users to keep their own credentials private, and verified payout methods. As for trust, it is also depends on the user.",
   },
   {
-    question: "Can I download the Mahadev Betting App?",
+    question: "Can I download the Win99 Betting App?",
     answer:
-      "Yes, Mahadev betting app download links are available on the official site, complete with instructions for use on specific devices. Once the app is installed, use the permission requests and log in with your ID.",
+      "Yes, Win99 betting app download links are available on the official site, complete with instructions for use on specific devices. Once the app is installed, use the permission requests and log in with your ID.",
   },
   {
-    question: "How can I contact Mahadev Book customer care?",
+    question: "How can I contact Win99 Book customer care?",
     answer:
-      "The official Mahadev Book page should have specific information about live chat, email, and the Mahadev Book customer care number 24×7, if applicable.",
+      "The official Win99 Book page should have specific information about live chat, email, and the Win99 Book customer care number 24×7, if applicable.",
   },
   {
-    question: "How do I deposit and withdraw money on Mahadev Book?",
+    question: "How do I deposit and withdraw money on Win99 Book?",
     answer:
       "Deposit: Open your wallet, choose your deposit method (UPI, net banking, card), enter your deposit amount, and wait for a confirmation and your account balance will be updated. Withdraw: Open your wallet, choose withdrawal, confirm your destination details (account and other details), confirm with OTP, and wait for processing.",
   },
@@ -47,25 +47,25 @@ export default function Home() {
     <div className="min-h-screen w-full bg-black text-white">
       <img
         src={
-          "https://mahadevbooks.net/wp-content/uploads/2025/08/mahadev-book-id-1800-X-600-1-1024x341.webp"
+          "https://Win99books.net/wp-content/uploads/2025/08/Win99-book-id-1800-X-600-1-1024x341.webp"
         }
         alt="banner"
         className="w-full xl:px-10"
       />
       <main className="w-full max-w-5xl mx-auto px-1 md:px-8 py-10 flex flex-col items-center gap-2">
         <h1 className="text-lg sm:text-xl md:text-3xl font-medium text-center">
-          Join Our Mahadev Book Family – Login & Play Online Today
+          Join Our Win99 Book Family – Login & Play Online Today
         </h1>
 
         <p className="w-full text-center text-sm md:text-base leading-relaxed mb-2">
-          We, Mahadev Book is one of the top notch online betting & Gaming
+          We, Win99 Book is one of the top notch online betting & Gaming
           official website in India. We offer premium betting ID to Indian
           player, who are ready to place their bet on online cricket betting,
           sports betting, casino gaming, horse betting with winning tips and
           strategies. Get 24/7 customer support team. Rated ⭐⭐⭐⭐4.8 <br />{" "}
-          Our Mahadev Book is an account-based system designed for online gamers
+          Our Win99 Book is an account-based system designed for online gamers
           who value a consistent experience, simple steps, and an
-          easy-to-understand gaming dashboard. Create a Mahadev Book ID when you
+          easy-to-understand gaming dashboard. Create a Win99 Book ID when you
           register for a new gaming account, log in, add funds to your wallet,
           select a sport or casino game, place your wager, and withdraw your
           money using easy-to-understand payment methods. Our online betting
@@ -80,7 +80,7 @@ export default function Home() {
         <div className="w-full max-w-md bg-linear-to-r from-red-500 to-blue-500 rounded-2xl p-1 mt-4">
           <form className="w-full bg-black rounded-2xl px-6 py-8 flex flex-col gap-6 hover:scale-95 transition-transform">
             <h2 className="text-lg md:text-xl font-medium text-center">
-              Access Your Mahadev Book Official Account Here
+              Access Your Win99 Book Official Account Here
             </h2>
 
             <div className="flex items-center gap-2 rounded-xl px-4 bg-gray-900">
@@ -124,25 +124,25 @@ export default function Home() {
                 className="text-xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-2
               "
               >
-                Who We Are at Mahadev Book
+                Who We Are at Win99 Book
               </h2>
               <p className="text-gray-200 text-sm md:text-base leading-relaxed">
                 You can safely log in and enjoy sports betting, live casino
-                games, poker, slots, and card games at Mahadev Book, a reputable
+                games, poker, slots, and card games at Win99 Book, a reputable
                 online gaming and betting site in India. Every day, players can
                 enjoy a seamless and enjoyable gaming experience thanks to the
                 platform’s simple, secure, and user-friendly design. <br /> It’s
-                simple to get started: open an account with Mahadev Book,
-                deposit money using safe payment methods, and begin placing bets
-                on your preferred casino or sports games. With just a few
-                clicks, you can withdraw your winnings at any time and track
-                your wins in real time. For all Indian gamers, Mahadev Book
-                offers quick, secure, and enjoyable online betting.
+                simple to get started: open an account with Win99 Book, deposit
+                money using safe payment methods, and begin placing bets on your
+                preferred casino or sports games. With just a few clicks, you
+                can withdraw your winnings at any time and track your wins in
+                real time. For all Indian gamers, Win99 Book offers quick,
+                secure, and enjoyable online betting.
               </p>
             </div>
             <img
               className="h-full"
-              src="https://mahadevbooks.net/wp-content/uploads/2025/10/who-we-are-at-Mahadevbook-1024x683.webp"
+              src="https://Win99books.net/wp-content/uploads/2025/10/who-we-are-at-Win99book-1024x683.webp"
               alt="img"
             />
           </div>
@@ -152,21 +152,21 @@ export default function Home() {
                 className="text-xl font-medium text-amber-500 px-4 py-2 text-center border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-2
               "
               >
-                Mahadev Book Official - Trusted and Legal Platform
+                Win99 Book Official - Trusted and Legal Platform
               </h2>
               <p className="text-gray-200 text-sm md:text-base leading-relaxed">
                 Welcome to the reliable and secure online betting platform,
-                Mahadev Book Official Platform. As the official website, we
-                offer consumers looking for trustworthy gaming services a
-                flawless experience. Use the official login to access your
-                account at any time, and securely and effectively manage your
-                official ID. <br /> Mahadev Book is the go-to option for both
-                seasoned and novice bettors because our platform guarantees that
-                all transactions and gameplay are secure. With total peace of
-                mind, take advantage of a variety of games, live betting, and
+                Win99 Book Official Platform. As the official website, we offer
+                consumers looking for trustworthy gaming services a flawless
+                experience. Use the official login to access your account at any
+                time, and securely and effectively manage your official ID.{" "}
+                <br /> Win99 Book is the go-to option for both seasoned and
+                novice bettors because our platform guarantees that all
+                transactions and gameplay are secure. With total peace of mind,
+                take advantage of a variety of games, live betting, and
                 real-time updates. Because your trust and security are our top
                 priorities, stay up to date on promotions, updates, and safe
-                betting on the official Mahadev Book website.
+                betting on the official Win99 Book website.
               </p>
             </div>
           </div>
@@ -186,8 +186,8 @@ export default function Home() {
               </p>
               <ol className="list-disc px-6 mt-4 space-y-2 text-sm md:text-base">
                 <li>
-                  Easy sign-up and straightforward process to make a Mahadev
-                  Book ID
+                  Easy sign-up and straightforward process to make a Win99 Book
+                  ID
                 </li>
                 <li>
                   {" "}
@@ -216,7 +216,7 @@ export default function Home() {
           </div>
           <img
             src={
-              "https://mahadevbooks.net/wp-content/uploads/2025/09/Join-with-1core-MahadevBook-Users-%E2%80%93-A-trusted-online-betting-platform-1-1024x151-1.webp"
+              "https://Win99books.net/wp-content/uploads/2025/09/Join-with-1core-Win99Book-Users-%E2%80%93-A-trusted-online-betting-platform-1-1024x151-1.webp"
             }
             alt="img"
           />
@@ -226,16 +226,16 @@ export default function Home() {
                 className="text-xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-2
               "
               >
-                New to Mahadev Book? Register Your Account Now
+                New to Win99 Book? Register Your Account Now
               </h2>
               <p className="text-gray-200 text-sm md:text-base leading-relaxed">
-                To Register your New Account of Mahadev Book is easy Process:
+                To Register your New Account of Win99 Book is easy Process:
               </p>
               <ol className="list-decimal px-6 mt-4 space-y-2 text-sm md:text-base">
                 <li>
-                  Open the app or the official gaming website of Mahadev Book.
+                  Open the app or the official gaming website of Win99 Book.
                 </li>
-                <li>Enter the Mahadev book Register page</li>
+                <li>Enter the Win99 book Register page</li>
                 <li>
                   Complete the Information, and set the password and submit. Get
                   OTP if required as additional security.
@@ -243,13 +243,13 @@ export default function Home() {
                 <li>Now login Your Account by using ID and Password</li>
               </ol>
               <button className="px-6 py-2 bg-lime-800 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform text-white text-white">
-                Register Mahadev Book Account
+                Register Win99 Book Account
               </button>
             </div>
             <img
               className="h-full"
               src={
-                "https://mahadevbooks.net/wp-content/uploads/2025/10/MahadevBook-account-register-1024x683.webp"
+                "https://Win99books.net/wp-content/uploads/2025/10/Win99Book-account-register-1024x683.webp"
               }
               alt="img1"
             />
@@ -263,18 +263,18 @@ export default function Home() {
                 Forget Login Password? Reset Here
               </h2>
               <p className="text-gray-200 text-sm md:text-base leading-relaxed">
-                If you’ve forgotten your Mahadev Book login password, don’t
-                worry! You can easily reset it and regain access to your account
-                in just a few steps.
+                If you’ve forgotten your Win99 Book login password, don’t worry!
+                You can easily reset it and regain access to your account in
+                just a few steps.
               </p>
               <p className="text-lg mt-4 text-white">
                 How to Reset Your Password:
               </p>
               <ol className="list-decimal px-6 mt-4 space-y-2 text-sm md:text-base">
                 <li>
-                  Open the app or the official gaming website of Mahadev Book.
+                  Open the app or the official gaming website of Win99 Book.
                 </li>
-                <li>Enter the Mahadev book Register page</li>
+                <li>Enter the Win99 book Register page</li>
                 <li>
                   Complete the Information, and set the password and submit. Get
                   OTP if required as additional security.
@@ -282,7 +282,7 @@ export default function Home() {
                 <li>Now login Your Account by using ID and Password</li>
               </ol>
               <button className="px-6 py-2 bg-lime-800 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform text-white">
-                Mahadev Book Account Password Reset
+                Win99 Book Account Password Reset
               </button>
             </div>
             <div className="w-full">
@@ -290,10 +290,10 @@ export default function Home() {
                 className="text-xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-2
               "
               >
-                Mahadev Book Direct Login For Returning Players
+                Win99 Book Direct Login For Returning Players
               </h2>
               <p className="text-gray-200 text-sm md:text-base leading-relaxed">
-                Easy steps to Official login your mahadev book Account.
+                Easy steps to Official login your Win99 book Account.
               </p>
               <p className="text-lg mt-4 text-white">
                 How to Reset Your Password:
@@ -305,7 +305,7 @@ export default function Home() {
                 <li>Step 4. Click submit and successfully login.</li>
               </ol>
               <button className="px-6 py-2 bg-lime-800 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform text-white">
-                Mahadev Book Direct Login
+                Win99 Book Direct Login
               </button>
             </div>
           </div>
@@ -316,10 +316,10 @@ export default function Home() {
                 className="text-xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-2
               "
               >
-                Mahadev Book App - Download Now
+                Win99 Book App - Download Now
               </h2>
               <h3 className="font-medium text-lg text-gray-200 my-2">
-                Mahadev Book MOBILE APP ( New Update – November 2025)
+                Win99 Book MOBILE APP ( New Update – November 2025)
               </h3>
               <p>
                 India’s Highest-Rated Gaming Experience Rated ⭐⭐⭐⭐4.8 Stars
@@ -353,7 +353,7 @@ export default function Home() {
 
               <img
                 className="size-40"
-                src="https://mahadevbooks.net/wp-content/uploads/2025/11/Mahadev-Book-Mobile-App-Download-295x300.jpg"
+                src="https://Win99books.net/wp-content/uploads/2025/11/Win99-Book-Mobile-App-Download-295x300.jpg"
                 alt="qr img"
               />
 
@@ -363,7 +363,7 @@ export default function Home() {
             </div>
             <img
               src={
-                "https://mahadevbooks.net/wp-content/uploads/2025/10/download-mahadev-book-app.webp"
+                "https://Win99books.net/wp-content/uploads/2025/10/download-Win99-book-app.webp"
               }
               alt="img"
             />
@@ -373,11 +373,11 @@ export default function Home() {
               className="text-xl font-medium text-amber-500 px-4 py-2 text-center border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-4
               "
             >
-              We’ve Upgraded the Mahadev Book App – See What’s New for November
+              We’ve Upgraded the Win99 Book App – See What’s New for November
               2025
             </h2>
             <p className="text-gray-200 my-2">
-              The November 2025 Mahadev Book App update introduces a faster,
+              The November 2025 Win99 Book App update introduces a faster,
               smarter, and more secure betting experience. From enhanced cricket
               dashboards to instant wallet transactions, every feature is
               designed to give bettors in India smoother gameplay and real-time
@@ -427,8 +427,8 @@ export default function Home() {
             </h3>
             <p className="text-gray-200 my-4">
               {" "}
-              Mahadev Book takes pride in offering 24/7 customer support, and
-              the 2025 version makes it even more accessible. Ticket Tracking:
+              Win99 Book takes pride in offering 24/7 customer support, and the
+              2025 version makes it even more accessible. Ticket Tracking:
               Monitor your support requests and get quick resolutions.
             </p>
             <h3 className="text-xl font-semibold">
@@ -446,20 +446,19 @@ export default function Home() {
               className="text-xl font-medium text-amber-500 px-4 py-2 text-center border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-4
               "
             >
-              Mahadev Book Account Verification Process
+              Win99 Book Account Verification Process
             </h2>
             <p className="text-gray-200 my-2">
-              To ensure a safe and secure betting platform, Mahadev Book
-              requires all users to verify their accounts. The process is
-              simple, fast, and designed to protect your funds and personal
-              information. Follow these steps to complete your account
-              verification smoothly: ( Updated on November 3rd 2025 )
+              To ensure a safe and secure betting platform, Win99 Book requires
+              all users to verify their accounts. The process is simple, fast,
+              and designed to protect your funds and personal information.
+              Follow these steps to complete your account verification smoothly:
+              ( Updated on November 3rd 2025 )
             </p>
             <h3 className="text-xl font-semibold">1. Log in to Your Account</h3>
             <p className="text-gray-200 my-4">
               {" "}
-              Use your registered credentials to access your Mahadev Book
-              account.
+              Use your registered credentials to access your Win99 Book account.
             </p>
             <h3 className="text-xl font-semibold">
               2. Access Verification Section
@@ -483,7 +482,7 @@ export default function Home() {
             <h3 className="text-xl font-semibold">5. Wait for Approval</h3>
             <p className="text-gray-200 my-4">
               {" "}
-              The Mahadev Book team reviews your documents, usually within 24–48
+              The Win99 Book team reviews your documents, usually within 24–48
               hours.
             </p>
             <h3 className="text-xl font-semibold">
@@ -499,7 +498,7 @@ export default function Home() {
               Completing the verification process ensures faster withdrawals,
               secure transactions, and uninterrupted access to all games and
               betting options. Always provide authentic documents to avoid
-              delays and enjoy a seamless Mahadev Book experience.
+              delays and enjoy a seamless Win99 Book experience.
             </p>
           </div>
           <div className="w-full max-w-6xl mx-auto px-4 py-2">
@@ -507,7 +506,7 @@ export default function Home() {
               className="text-xl md:text-2xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-4
               "
             >
-              Mahadev Book Sports Games – Play and Enjoy
+              Win99 Book Sports Games – Play and Enjoy
             </h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -607,7 +606,7 @@ export default function Home() {
               className="text-xl font-medium text-amber-500 px-4 py-2 text-center border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-4
               "
             >
-              Mahadev Book Live Casino Games
+              Win99 Book Live Casino Games
             </h2>
             <ul className="px-6 list-disc text-lg font-light grid grid-cols-1 gap-1 my-2">
               <li>
@@ -641,10 +640,10 @@ export default function Home() {
               {/* Text Block */}
               <div className="w-full">
                 <h2 className="text-xl md:text-2xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-                  What is Mahadev Book ID?
+                  What is Win99 Book ID?
                 </h2>
                 <p className="text-gray-200 text-sm md:text-base leading-relaxed mb-4">
-                  Your personal betting account, Mahadev Book ID, provides you
+                  Your personal betting account, Win99 Book ID, provides you
                   with immediate access to live sports markets, online casino
                   games, and cricket betting.
                 </p>
@@ -652,14 +651,14 @@ export default function Home() {
                   It is a special identification number needed to wager on
                   football, the Indian Premier League, and other sports. You can
                   safely deposit money, place bets in real time, and withdraw
-                  winnings from your mobile device using your Mahadev ID.
+                  winnings from your mobile device using your Win99 ID.
                 </p>
               </div>
 
               {/* Visual Block */}
               <img
                 src={
-                  "https://mahadevbooks.net/wp-content/uploads/2025/10/What-is-Mahadev-Book-ID-1024x683.webp"
+                  "https://Win99books.net/wp-content/uploads/2025/10/What-is-Win99-Book-ID-1024x683.webp"
                 }
                 alt="img2"
               />
@@ -668,7 +667,7 @@ export default function Home() {
 
           <div className="w-full max-w-4xl mx-auto px-4 py-2">
             <h2 className="text-xl md:text-2xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Choose Your Mahadev Book ID Type
+              Choose Your Win99 Book ID Type
             </h2>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
@@ -703,7 +702,7 @@ export default function Home() {
             {/* CTA Button */}
             <div className="flex justify-center mt-8">
               <button className="px-6 py-3 bg-green-500 text-white rounded-md cursor-pointer hover:scale-95 transition-transform font-semibold flex items-center gap-2">
-                Get Your Mahadev ID Now
+                Get Your Win99 ID Now
               </button>
             </div>
           </div>
@@ -713,12 +712,12 @@ export default function Home() {
               {/* Text Content */}
               <div className="w-full">
                 <h2 className="text-xl md:text-2xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-                  How to Get Verified Mahadev Book Account ID Using WhatsApp
+                  How to Get Verified Win99 Book Account ID Using WhatsApp
                 </h2>
 
                 <p className="text-gray-200 text-sm md:text-base leading-relaxed mb-4">
                   For all online cricket bettors, casino enthusiasts, and sports
-                  bettors in India, having a verified Mahadev Book account ID is
+                  bettors in India, having a verified Win99 Book account ID is
                   crucial to enjoy secure betting and instant access to your
                   favourite games. Verifying your account via WhatsApp is
                   simple, fast, and safe.
@@ -731,7 +730,7 @@ export default function Home() {
                 {[
                   {
                     title: "Open WhatsApp:",
-                    desc: "Contact the official Mahadev Book support number provided on our website.",
+                    desc: "Contact the official Win99 Book support number provided on our website.",
                   },
                   {
                     title: "Send Your Details:",
@@ -739,7 +738,7 @@ export default function Home() {
                   },
                   {
                     title: "Verification Process:",
-                    desc: "The support team will verify your information and confirm your Mahadev Book account ID.",
+                    desc: "The support team will verify your information and confirm your Win99 Book account ID.",
                   },
                   {
                     title: "Start Betting:",
@@ -757,23 +756,23 @@ export default function Home() {
                 ))}
 
                 <p className="text-gray-200 text-sm md:text-base leading-relaxed mb-4">
-                  We recommend using only the official Mahadev Book platform to
+                  We recommend using only the official Win99 Book platform to
                   avoid fake sites and scams. Stay safe, bet responsibly, and
                   enjoy a seamless gaming experience.
                 </p>
                 <p className="text-gray-200 text-sm md:text-base leading-relaxed mb-6">
                   Visit our official website to get started and connect with
-                  verified Mahadev Book support via WhatsApp.
+                  verified Win99 Book support via WhatsApp.
                 </p>
 
                 <button className="px-6 py-3 bg-green-500 text-black font-semibold rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
-                  Get Mahadev Book ID
+                  Get Win99 Book ID
                 </button>
               </div>
 
               {/* Visual Block */}
               <img
-                src="https://mahadevbooks.net/wp-content/uploads/2025/11/how-to-get-verified-mahadev-book-account-id-using-whatsapp-trusted-betting-platform.webp"
+                src="https://Win99books.net/wp-content/uploads/2025/11/how-to-get-verified-Win99-book-account-id-using-whatsapp-trusted-betting-platform.webp"
                 alt="img"
               />
             </div>
@@ -783,25 +782,25 @@ export default function Home() {
               className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4
               "
             >
-              Join Us at Mahadev Book – Top Cricket ID Platform in India 2025
+              Join Us at Win99 Book – Top Cricket ID Platform in India 2025
             </h2>
             <p className="text-gray-200 my-2">
-              Welcome to the official Mahadev Book platform, where you can
-              access your official ID safely and securely. We provide the
-              official number, official ID and password, and the verified
-              official ID link to ensure a smooth login experience. For any
-              assistance, our official ID customer.
+              Welcome to the official Win99 Book platform, where you can access
+              your official ID safely and securely. We provide the official
+              number, official ID and password, and the verified official ID
+              link to ensure a smooth login experience. For any assistance, our
+              official ID customer.
             </p>
             <p className="text-gray-200 my-2">
               You can also reach us directly via our WhatsApp number for quick
-              support. Using the official Mahadev Book ID guarantees safe gaming
+              support. Using the official Win99 Book ID guarantees safe gaming
               and seamless access to all features. Always make sure you use the
               verified links and contact information to protect your account and
-              enjoy worry-free betting and gaming on the authentic Mahadev Book
+              enjoy worry-free betting and gaming on the authentic Win99 Book
               platform.
             </p>
             <button className="px-6 py-2 bg-green-500 mt-6 mx-auto rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
-              Get Mahadev Book Official ID
+              Get Win99 Book Official ID
             </button>
           </div>
           <div className="w-full">
@@ -809,17 +808,17 @@ export default function Home() {
               className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4
               "
             >
-              Mahadev Book Gaming Rules and Regulations
+              Win99 Book Gaming Rules and Regulations
             </h2>
             <p className="text-gray-200 my-2">
-              We, Mahadev Book, fair play and transparency are our top
-              priorities. Every user must follow the platform’s rules to ensure
-              a safe and enjoyable betting experience.
+              We, Win99 Book, fair play and transparency are our top priorities.
+              Every user must follow the platform’s rules to ensure a safe and
+              enjoyable betting experience.
             </p>
             <ol className="list-decimal px-6 mt-4 grid grid-cols-1 gap-2">
               <li>
-                Users must register with a valid Mahadev Book ID and verify
-                their details.
+                Users must register with a valid Win99 Book ID and verify their
+                details.
               </li>
               <li>
                 {" "}
@@ -843,7 +842,7 @@ export default function Home() {
               </li>
             </ol>
             <button className="px-6 py-2 bg-green-500 mt-6 mx-auto rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
-              Get Mahadev Book Official ID
+              Get Win99 Book Official ID
             </button>
           </div>
           <div className="w-full">
@@ -854,12 +853,12 @@ export default function Home() {
               How Our Platform Works – Fair Play Is Our Priority
             </h2>
             <p className="text-gray-200 my-2">
-              Discover how our Mahadev Book works: create your account, deposit
+              Discover how our Win99 Book works: create your account, deposit
               funds, and start online gaming with live cricket betting, casino
               games, and secure, responsible play anytime, anywhere in India.
             </p>
             <img
-              src="https://mahadevbooks.net/wp-content/uploads/2025/09/Join-with-1core-MahadevBook-Users-%E2%80%93-A-trusted-online-betting-platform-1-1024x151-1.webp"
+              src="https://Win99books.net/wp-content/uploads/2025/09/Join-with-1core-Win99Book-Users-%E2%80%93-A-trusted-online-betting-platform-1-1024x151-1.webp"
               alt="img"
             />
           </div>
@@ -875,7 +874,7 @@ export default function Home() {
                   desc: "Safe, authorized betting site for cricket, sports, and casino games.",
                 },
                 {
-                  title: "Quick Mahadev Book ID Registration",
+                  title: "Quick Win99 Book ID Registration",
                   desc: "Simple and fast signup process to start betting instantly.",
                 },
                 {
@@ -917,12 +916,12 @@ export default function Home() {
               We Prioritize Your Safety and Legal Compliance
             </h2>
             <p className="text-gray-200 text-sm md:text-base leading-relaxed">
-              We, Mahadev Book, is a secure and legal online gaming platform in
+              We, Win99 Book, is a secure and legal online gaming platform in
               India. It protects users with strict verification and robust data
               safety measures. We Operating under Indian laws and responsible
               gaming standards, the platform lets users register, deposit, and
               play with confidence. With reliable payment methods and fair play
-              systems, Mahadev Book ensures a safe and trustworthy betting
+              systems, Win99 Book ensures a safe and trustworthy betting
               experience.
             </p>
           </div>
@@ -931,7 +930,7 @@ export default function Home() {
               className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4
               "
             >
-              Our Mahadev Book Gameplay Mode
+              Our Win99 Book Gameplay Mode
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
               <div>
@@ -943,7 +942,7 @@ export default function Home() {
                 </p>
                 <ol className="list-disc px-6 mt-4 space-y-2 text-sm md:text-base">
                   <li>
-                    Log into your Mahadev book account and confirm your wallet.
+                    Log into your Win99 book account and confirm your wallet.
                   </li>
                   <li>
                     {" "}
@@ -1015,98 +1014,96 @@ export default function Home() {
               className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4
               "
             >
-              Login to Your Mahadev BookAccount
+              Login to Your Win99 BookAccount
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
               <div>
                 <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-                  Mahadev Book 247 Login
+                  Win99 Book 247 Login
                 </h2>
                 <p className="text-gray-200 my-2">
-                  Access your Mahadev Book 247 account quickly and securely
-                  using your registered email ID and password. Our platform
-                  delivers a seamless login experience, letting you start
-                  betting on your favourite sports, casino games, and live
-                  events in seconds.
+                  Access your Win99 Book 247 account quickly and securely using
+                  your registered email ID and password. Our platform delivers a
+                  seamless login experience, letting you start betting on your
+                  favourite sports, casino games, and live events in seconds.
                 </p>
                 <p className="text-gray-200 my-2">
                   Not a member yet? Register now and join India’s most trusted
-                  online gaming community. Create your free Mahadev Book 247
+                  online gaming community. Create your free Win99 Book 247
                   account, claim exciting bonuses, and explore a wide range of
                   live betting options. Play safely, stay responsible, and enjoy
                   the excitement of real-time gaming on your official and
                   verified platform.
                 </p>
                 <button className="px-6 py-2 bg-green-500 mt-6 mx-auto rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
-                  Join Mahadev Book 247
+                  Join Win99 Book 247
                 </button>
               </div>
               <div className="w-full">
                 <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-                  Mahadev Book Club Login
+                  Win99 Book Club Login
                 </h2>
                 <p className="text-gray-200 my-2">
-                  Access your Mahadev Book Club account quickly and securely
-                  using your registered email ID and password. Our platform
-                  ensures a smooth login experience, letting you start betting
-                  on your favorite sports, casino games, and live events in
-                  seconds.
+                  Access your Win99 Book Club account quickly and securely using
+                  your registered email ID and password. Our platform ensures a
+                  smooth login experience, letting you start betting on your
+                  favorite sports, casino games, and live events in seconds.
                 </p>
                 <p className="text-gray-200 my-2">
                   Not a member yet? Register now and join India’s most trusted
-                  online gaming community. Create your free Mahadev Book Club
+                  online gaming community. Create your free Win99 Book Club
                   account, claim exciting bonuses, and explore a wide variety of
                   live betting options. Play safely, enjoy responsibly, and
                   experience the thrill of real-time gaming on your official and
-                  verified Mahadev Book Club platform.
+                  verified Win99 Book Club platform.
                 </p>
                 <button className="px-6 py-2 bg-green-500 mt-6 mx-auto rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
-                  Join Mahadev Book Club
+                  Join Win99 Book Club
                 </button>
               </div>
             </div>
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Evolution of Mahadev Book Predictions – Watch. Predict. Win.
+              Evolution of Win99 Book Predictions – Watch. Predict. Win.
             </h2>
             <p className="text-gray-200 my-2">
-              Our Mahadev Book journey demonstrates how it has developed into
-              one of India’s most reliable online betting sites. A large
-              selection of games, safe transactions, and easy navigation are all
-              provided by the official Mahadev Book website. Sports betting,
-              live casino, and cricket betting are all accessible to Indian
-              users in a fun and safe manner.
+              Our Win99 Book journey demonstrates how it has developed into one
+              of India’s most reliable online betting sites. A large selection
+              of games, safe transactions, and easy navigation are all provided
+              by the official Win99 Book website. Sports betting, live casino,
+              and cricket betting are all accessible to Indian users in a fun
+              and safe manner.
             </p>
             <p className="text-gray-200 my-2">
               Over the years, our players’ prediction methods have changed.
               Users previously relied solely on simple match statistics. To
-              increase winning odds, Mahadev Book predictions now offer in-depth
+              increase winning odds, Win99 Book predictions now offer in-depth
               team analysis, professional advice, and real-time updates. In the
-              same way, Mahadev Book Club forecasts help players make better
+              same way, Win99 Book Club forecasts help players make better
               decisions in football, cricket, and other sports.
             </p>
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Inside Our Story: The Rise of Mahadev Book in India
+              Inside Our Story: The Rise of Win99 Book in India
             </h2>
             <p className="text-gray-200 my-2">
-              We, Mahadev Book, are one of India’s most trusted online betting
-              ID providers, offering a smooth and secure gaming experience for
+              We, Win99 Book, are one of India’s most trusted online betting ID
+              providers, offering a smooth and secure gaming experience for
               every player. From cricket, football, tennis, to popular casino
               games, you can enjoy safe and fast gameplay on our platform. With
               live cricket betting, you can place bets in real-time while the
               match is happening, all with your own betting ID.
             </p>
             <p className="text-gray-200 my-2">
-              Our Mahadev Book online site is made for Indian players who want
+              Our Win99 Book online site is made for Indian players who want
               simple access, safe UPI payments, and quick customer support.
               Whether it’s a big online cricket betting or a daily online sports
               event, you’ll always find exciting betting options here.
             </p>
             <p className="text-gray-200 my-2">
-              Getting started is easy – sign up today on the Mahadev Book gaming
+              Getting started is easy – sign up today on the Win99 Book gaming
               website and claim your demo betting ID to try betting before you
               invest real money. Experience sports betting the safe and
               enjoyable way.
@@ -1117,13 +1114,13 @@ export default function Home() {
               Our Players Made Us the Best Gaming Platform of 2025
             </h2>
             <p className="text-gray-200 text-sm md:text-base leading-relaxed">
-              We, Mahadev Book, has been honored as the Best Online Gaming
+              We, Win99 Book, has been honored as the Best Online Gaming
               Platform of 2025 by the Indian Online Gaming Association (IOGA).
               This recognition comes for its easy-to-use interface, secure
               gaming platform, and wide range of options, including live casino
               games and cricket betting. Known for fast payouts and fair play,
-              Mahadev Book continues to lead the online gaming industry in
-              India, earning the trust and loyalty of players nationwide.
+              Win99 Book continues to lead the online gaming industry in India,
+              earning the trust and loyalty of players nationwide.
             </p>
           </div>
           <div className="w-full">
@@ -1131,16 +1128,16 @@ export default function Home() {
               We’ve Earned the Trust of Over 50,000 Players Across India
             </h2>
             <p className="text-gray-200 my-2">
-              Mahadev Book began its journey in India with a simple goal – to
+              Win99 Book began its journey in India with a simple goal – to
               provide a safe, transparent, and user-friendly online gaming and
-              betting platform. Since its launch, Mahadev Book has earned the
+              betting platform. Since its launch, Win99 Book has earned the
               trust of players by offering secure accounts, fast payments, and
               24/7 customer support.
             </p>
             <p className="text-gray-200 my-2">
-              Indian users rely on Mahadev Book because it blends advanced
+              Indian users rely on Win99 Book because it blends advanced
               technology with reliability, making online gaming smooth and
-              enjoyable. From cricket betting to live casino games, Mahadev Book
+              enjoyable. From cricket betting to live casino games, Win99 Book
               has built a strong community of players who value fair play and
               trust. Today, it proudly stands as one of India’s leading online
               gaming platforms.
@@ -1148,34 +1145,34 @@ export default function Home() {
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              We Mahadev Book Trusted Brand
+              We Win99 Book Trusted Brand
             </h2>
             <p className="text-gray-200 my-2">
-              Mahadev Book is a recognized online gaming and betting brand that
+              Win99 Book is a recognized online gaming and betting brand that
               operates under official ownership and registered trademark rights.
               The platform is built to provide users with a secure and trusted
-              betting experience in India. With its official trademark, Mahadev
+              betting experience in India. With its official trademark, Win99
               Book ensures authenticity, reliability, and complete protection
               against duplicate or fake platforms.
             </p>
             <p className="text-gray-200 my-2">
               Users can confidently register, log in, and enjoy safe gaming
               services knowing they are on the original site. The ownership and
-              trademark of Mahadev Book highlight its credibility, making it a
+              trademark of Win99 Book highlight its credibility, making it a
               preferred choice for online betting enthusiasts across the
               country.
             </p>
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Meet Our Team Behind Mahadev Book
+              Meet Our Team Behind Win99 Book
             </h2>
             <p className="text-gray-200 my-2">
-              At Mahadev Book, we believe a strong platform is built by a strong
+              At Win99 Book, we believe a strong platform is built by a strong
               team. Our dedicated professionals work round the clock to provide
               users with a secure, transparent, and enjoyable betting
               experience. From customer support experts to technical
-              specialists, every member of the Mahadev Book team focuses on
+              specialists, every member of the Win99 Book team focuses on
               innovation and trust. Together, we ensure that players in India
               get the best services, seamless gameplay, and a platform they can
               always rely on.
@@ -1183,19 +1180,19 @@ export default function Home() {
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Mahadev Book Football Betting – Place Bets Online with Ease
+              Win99 Book Football Betting – Place Bets Online with Ease
             </h2>
             <p className="text-gray-200 my-2 text-center">
-              Mahadev Book is one of India’s trusted platforms for online
-              football betting. Whether you are a fan of the Premier League, La
-              Liga, or local tournaments, Mahadev Book makes it easy to place
-              bets safely and quickly. With a verified Mahadev Book ID, users
-              can enjoy real-time updates, live match betting, and secure
-              transactions. The platform is designed for both beginners and
-              experienced players, offering an intuitive interface and 24/7
-              customer support. Start your football betting journey with Mahadev
-              Book today and experience a reliable, exciting, and fully secure
-              online betting platform.
+              Win99 Book is one of India’s trusted platforms for online football
+              betting. Whether you are a fan of the Premier League, La Liga, or
+              local tournaments, Win99 Book makes it easy to place bets safely
+              and quickly. With a verified Win99 Book ID, users can enjoy
+              real-time updates, live match betting, and secure transactions.
+              The platform is designed for both beginners and experienced
+              players, offering an intuitive interface and 24/7 customer
+              support. Start your football betting journey with Win99 Book today
+              and experience a reliable, exciting, and fully secure online
+              betting platform.
             </p>
             <button className="px-6 py-2 mx-auto bg-green-500 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
               Register Account & Bet Now
@@ -1206,16 +1203,15 @@ export default function Home() {
               We Bring You the Thrill of Horse Race Betting
             </h2>
             <p className="text-gray-200 my-2 text-center">
-              Mahadev Book is a trusted platform for horse race betting in
-              India. Whether you are a beginner or an experienced bettor,
-              Mahadev Book offers a safe and easy-to-use platform for placing
-              bets on your favourite races. With a verified Mahadev Book ID, you
-              can enjoy fast deposits, quick withdrawals, and secure
-              transactions. The platform provides real-time updates, live race
-              options, and expert tips to enhance your betting experience. Start
-              your journey with Mahadev Book today, experience thrilling horse
-              racing action, and make the most of India’s trusted online betting
-              platform.
+              Win99 Book is a trusted platform for horse race betting in India.
+              Whether you are a beginner or an experienced bettor, Win99 Book
+              offers a safe and easy-to-use platform for placing bets on your
+              favourite races. With a verified Win99 Book ID, you can enjoy fast
+              deposits, quick withdrawals, and secure transactions. The platform
+              provides real-time updates, live race options, and expert tips to
+              enhance your betting experience. Start your journey with Win99
+              Book today, experience thrilling horse racing action, and make the
+              most of India’s trusted online betting platform.
             </p>
             <button className="px-6 py-2 mx-auto bg-green-500 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
               Sign Up & Bet on Horse
@@ -1226,16 +1222,16 @@ export default function Home() {
               We Bring You Real-Time Tennis Odds and Insights
             </h2>
             <p className="text-gray-200 my-2 text-center">
-              Mahadev Book is one of India’s trusted platforms for online sports
+              Win99 Book is one of India’s trusted platforms for online sports
               betting, and tennis fans can enjoy an exciting experience here.
-              With Mahadev Book, you can place bets on major tennis tournaments
+              With Win99 Book, you can place bets on major tennis tournaments
               like Wimbledon, US Open, Australian Open, and French Open. The
               platform provides real-time match updates, secure transactions,
               and easy account management, making it simple for both beginners
-              and experienced bettors. Creating your Mahadev Book ID and logging
+              and experienced bettors. Creating your Win99 Book ID and logging
               in is quick, giving you instant access to live odds and
               competitive betting options. Start your tennis betting journey
-              today with Mahadev Book and enjoy safe, fun, and reliable online
+              today with Win99 Book and enjoy safe, fun, and reliable online
               betting.
             </p>
             <button className="px-6 py-2 mx-auto bg-green-500 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
@@ -1244,18 +1240,18 @@ export default function Home() {
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Join Us and Bet Smarter on Mahadev Book Poker
+              Join Us and Bet Smarter on Win99 Book Poker
             </h2>
             <p className="text-gray-200 my-2 text-center">
-              Mahadev Book is a trusted platform for poker game betting in
-              India. It offers a safe and easy-to-use platform for both
-              beginners and experienced players. With a verified Mahadev Book
-              ID, you can start betting instantly and enjoy a variety of poker
-              formats. The platform ensures secure transactions, fast deposits,
-              and quick withdrawals, making your gaming experience smooth and
-              reliable. Whether you play on mobile or desktop, Mahadev Book
-              provides seamless access to live poker games. Join today, complete
-              your login, and experience one of the best online poker betting
+              Win99 Book is a trusted platform for poker game betting in India.
+              It offers a safe and easy-to-use platform for both beginners and
+              experienced players. With a verified Win99 Book ID, you can start
+              betting instantly and enjoy a variety of poker formats. The
+              platform ensures secure transactions, fast deposits, and quick
+              withdrawals, making your gaming experience smooth and reliable.
+              Whether you play on mobile or desktop, Win99 Book provides
+              seamless access to live poker games. Join today, complete your
+              login, and experience one of the best online poker betting
               platforms in India.
             </p>
             <button className="px-6 py-2 mx-auto bg-green-500 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
@@ -1264,7 +1260,7 @@ export default function Home() {
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Our Expert Tips to Master Mahadev Book Gaming
+              Our Expert Tips to Master Win99 Book Gaming
             </h2>
             <ul className="px-6 list-disc text-lg font-normal grid grid-cols-1 gap-2 my-2">
               <li>Try setting a spending limit and stick to it.</li>
@@ -1300,21 +1296,21 @@ export default function Home() {
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Need Support Team? - Contact Mahadev Book Whatsapp Number
+              Need Support Team? - Contact Win99 Book Whatsapp Number
             </h2>
             <p className="text-gray-200 text-sm md:text-base leading-relaxed">
               Support is always very important, especially where money is
-              concerned! The official site lists contact options for Mahadev
-              book customer care as well as 24×7 support channels (where
-              offered), along with their email address and live chat link. The
-              live chat is suitable for quick questions, while the email is best
-              for document checks and keeping records! A telephone line is
-              suitable for pressing issues; it is advised to have your Mahadev
-              book ID and any reference numbers associated with the transactions
-              so that the Mahadev book team can easily find your information.
+              concerned! The official site lists contact options for Win99 book
+              customer care as well as 24×7 support channels (where offered),
+              along with their email address and live chat link. The live chat
+              is suitable for quick questions, while the email is best for
+              document checks and keeping records! A telephone line is suitable
+              for pressing issues; it is advised to have your Win99 book ID and
+              any reference numbers associated with the transactions so that the
+              Win99 book team can easily find your information.
             </p>
             <button className="px-6 py-2 bg-green-500 mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2">
-              Contact Mahadev Book Support Team
+              Contact Win99 Book Support Team
             </button>
           </div>
           <div className="w-full p-4 bg-red-900 text-center">
@@ -1329,36 +1325,36 @@ export default function Home() {
           </div>
           <div className="w-full max-w-6xl mx-auto px-4 py-2">
             <h2 className="text-xl md:text-2xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-6">
-              Mahadev Book Official News & Updates
+              Win99 Book Official News & Updates
             </h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {[
                 {
-                  title: "How to Create and Verify Your Mahadev Book ID",
+                  title: "How to Create and Verify Your Win99 Book ID",
                   date: "November 7, 2025",
                   excerpt:
-                    "Online betting in India has become more exciting than ever — and Mahadev Book is leading the way with its simple, secure, and fast registration.",
+                    "Online betting in India has become more exciting than ever — and Win99 Book is leading the way with its simple, secure, and fast registration.",
                   imgUrl:
-                    "https://mahadevbooks.net/wp-content/uploads/2025/11/How-to-create-verifiy-your-mahadev-book-id-trusted-platform-300x200.webp",
+                    "https://Win99books.net/wp-content/uploads/2025/11/How-to-create-verifiy-your-Win99-book-id-trusted-platform-300x200.webp",
                 },
                 {
                   title:
-                    "Get Instant Mahadev Book ID via WhatsApp – Step-by-Step Guide",
+                    "Get Instant Win99 Book ID via WhatsApp – Step-by-Step Guide",
                   date: "November 7, 2025",
                   excerpt:
-                    "Online betting in India has become more exciting than ever — and Mahadev Book is leading the way with its simple, secure, and fast registration.",
+                    "Online betting in India has become more exciting than ever — and Win99 Book is leading the way with its simple, secure, and fast registration.",
                   imgUrl:
-                    "https://mahadevbooks.net/wp-content/uploads/2025/11/Get-instant-mahadev-book-id-step-by-step-300x200.webp",
+                    "https://Win99books.net/wp-content/uploads/2025/11/Get-instant-Win99-book-id-step-by-step-300x200.webp",
                 },
                 {
                   title:
-                    "Mahadev Book Official Website – Register, Login & Start Betting",
+                    "Win99 Book Official Website – Register, Login & Start Betting",
                   date: "November 7, 2025",
                   excerpt:
-                    "Online betting has become a favourite pastime for millions of Indian players — and Mahadev Book stands at the center of it all.",
+                    "Online betting has become a favourite pastime for millions of Indian players — and Win99 Book stands at the center of it all.",
                   imgUrl:
-                    "https://mahadevbooks.net/wp-content/uploads/2025/11/Mahadev-Book-Official-website-register-login-start-betting-300x200.webp",
+                    "https://Win99books.net/wp-content/uploads/2025/11/Win99-Book-Official-website-register-login-start-betting-300x200.webp",
                 },
               ].map((news, idx) => (
                 <div
@@ -1384,7 +1380,7 @@ export default function Home() {
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Mahadev Book Top Players & Reviews
+              Win99 Book Top Players & Reviews
             </h2>
             <div className="w-full flex gap-6 overflow-x-auto py-4">
               <div className="shrink-0 w-80 border-2 border-yellow-600 p-4 rounded-xl italic">
@@ -1468,13 +1464,13 @@ export default function Home() {
           </div>
           <div className="w-full">
             <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
-              Mahadev Book - Everything You Need to Know
+              Win99 Book - Everything You Need to Know
             </h2>
             <FaqAccordion faqData={faqData} />
           </div>
         </section>
         <button className="fixed bottom-4 right-8 px-4 py-2 bg-green-500 rounded-3xl flex gap-2 items-center font-medium">
-          <FaWhatsapp size={28} /> Get MahadevBook ID
+          <FaWhatsapp size={28} /> Get Win99Book ID
         </button>
       </main>
     </div>

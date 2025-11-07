@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { FaGithub, FaMedium, FaPinterest, FaTwitch } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
@@ -8,28 +9,34 @@ const Footer = () => {
       {/* Keyword Strip */}
       <div className="w-full py-4 font-medium text-sm md:text-base">
         <div className="max-w-6xl mx-auto px-4">
-          Mahadev Book | Mahadev Book Id | Mahadev Book Login | Mahadev ID |
-          Mahadev Online Book | MahadevBook | Mahadev Book Whatsapp Number |
-          Mahadev Book Betting App Download | Mahadev Book App | Mahadev Book
-          Online Betting | Mahadev Book Site | Mahadev Cricket ID | Mahadev Book
-          Prediction | Online Sports Betting | Casino Game | Football Betting |
-          Fantasy Games | Horse Race Betting | Mahadev Book Offers | ReddyBook
+          Win99 Book | Win99 Book Id | Win99 Book Login | Win99 ID | Win99
+          Online Book | Win99Book | Win99 Book Whatsapp Number | Win99 Book
+          Betting App Download | Win99 Book App | Win99 Book Online Betting |
+          Win99 Book Site | Win99 Cricket ID | Win99 Book Prediction | Online
+          Sports Betting | Casino Game | Football Betting | Fantasy Games |
+          Horse Race Betting | Win99 Book Offers | ReddyBook
         </div>
       </div>
 
       {/* Responsible Gaming Notice */}
-      <p className="w-full text-base md:text-xl text-center bg-gray-950 py-4">
+      <p className="w-full text-base md:text-xl text-center bg-zinc-900 py-4">
         Playing can be addictive. Make sure to play responsibly.
       </p>
 
       {/* Footer Main Section */}
-      <section className="w-full bg-zinc-900 py-16 px-4">
+      <section className="w-full bg-black py-16 px-4">
         <div className="max-w-6xl mx-auto flex flex-col lg:flex-row gap-10 justify-between text-white">
           {/* Logo & Disclaimer */}
           <div className="flex-1 min-w-[250px]">
-            <h2 className="text-3xl md:text-4xl mb-6">LOGO</h2>
+            <Image
+              src={"/LOGO.png"}
+              alt="banner"
+              width={160}
+              height={40}
+              className="size-14 md:size-16 lg:size-20"
+            />
             <p className="text-sm md:text-base">
-              Welcome to MahadevBook Online Betting Website.
+              Welcome to Win99Book Online Betting Website.
               <span className="italic block mt-2">
                 Online betting carries financial risk. Always play responsibly
                 and never bet more than you can afford to lose.
@@ -40,17 +47,17 @@ const Footer = () => {
           {/* Navigation Links */}
           <div className="flex-1 min-w-[250px]">
             <h3 className="mb-6 text-lg font-semibold">
-              MahadevBook Online Betting Site
+              Win99Book Online Betting Site
             </h3>
             <div className="grid grid-cols-2 gap-4 text-sm md:text-base">
               <div className="space-y-2">
                 {[
                   "Home",
-                  "Mahadevbook ID",
-                  "Mahadevbook Register",
-                  "Mahadevbook Login",
-                  "Mahadevbook App",
-                  "Mahadev Book",
+                  "Win99book ID",
+                  "Win99book Register",
+                  "Win99book Login",
+                  "Win99book App",
+                  "Win99 Book",
                   "Offers",
                   "Blogs",
                 ].map((item, idx) => (
@@ -110,7 +117,7 @@ const Footer = () => {
             <p className="font-medium mb-2">Download the App Now</p>
             <div className="size-40 rounded-md">
               <img
-                src="https://mahadevbooks.net/wp-content/uploads/2025/11/Mahadev-Book-Mobile-App-Download-1007x1024.jpg"
+                src="https://Win99books.net/wp-content/uploads/2025/11/Win99-Book-Mobile-App-Download-1007x1024.jpg"
                 alt="qr"
               />
             </div>
