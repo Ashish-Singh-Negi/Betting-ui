@@ -52,15 +52,25 @@ export default function Home() {
         width={1100}
         className="h-[640px] w-full"
       />
-      <main className="w-full max-w-5xl mx-auto px-4 md:px-8 py-10 flex flex-col items-center gap-8">
+      <main className="w-full max-w-5xl mx-auto px-1 md:px-8 py-10 flex flex-col items-center gap-2">
         <h1 className="text-lg sm:text-xl md:text-3xl font-medium text-center">
           Join Our Mahadev Book Family – Login & Play Online Today
         </h1>
 
         <p className="w-full max-w-3xl text-center text-sm md:text-base leading-relaxed">
-          We, Mahadev Book, are one of the top-notch online betting & gaming
-          platforms in India...
-          {/* truncated for brevity */}
+          We, Mahadev Book is one of the top notch online betting & Gaming
+          official website in India. We offer premium betting ID to Indian
+          player, who are ready to place their bet on online cricket betting,
+          sports betting, casino gaming, horse betting with winning tips and
+          strategies. Get 24/7 customer support team. Rated ⭐⭐⭐⭐4.8 <br />{" "}
+          Our Mahadev Book is an account-based system designed for online gamers
+          who value a consistent experience, simple steps, and an
+          easy-to-understand gaming dashboard. Create a Mahadev Book ID when you
+          register for a new gaming account, log in, add funds to your wallet,
+          select a sport or casino game, place your wager, and withdraw your
+          money using easy-to-understand payment methods. Our online betting
+          site is simple to use and navigate. New players can open a demo ID and
+          place their first wager right away!
         </p>
 
         <button className="px-6 py-3 rounded-lg bg-yellow-500 text-black font-semibold hover:scale-95 hover:bg-gray-500 transition-transform">
@@ -107,7 +117,7 @@ export default function Home() {
           </form>
         </div>
 
-        <section className="w-full max-w-6xl mx-auto px-4 py-10 flex flex-col items-center gap-10">
+        <section className="w-full max-w-6xl mx-auto px-4 py-10 flex flex-col items-center gap-6">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
             <div className="w-full">
               <h2
@@ -447,7 +457,7 @@ export default function Home() {
               delays and enjoy a seamless Mahadev Book experience.
             </p>
           </div>
-          <div className="w-full max-w-6xl mx-auto px-4 py-10">
+          <div className="w-full max-w-6xl mx-auto px-4 py-2">
             <h2
               className="text-xl md:text-2xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl my-4
               "
@@ -513,6 +523,19 @@ export default function Home() {
                   ],
                   button: "Get ID & Start Bet",
                 },
+                {
+                  title: "Explore More Sports Games",
+                  desc: "Tennis is direct and personal. Each match gets attention, and every tournament offers betting opportunities.",
+                  features: [
+                    "✓ Badminton",
+                    "✓ Basketball",
+                    "✓ Rugby",
+                    "✓ Hockey",
+                    "✓ VolleyBall",
+                    "✓ Boxing",
+                  ],
+                  button: "Get ID & Start Bet",
+                },
               ].map((game, idx) => (
                 <div
                   key={idx}
@@ -564,11 +587,11 @@ export default function Home() {
                 colorful, and rewarding, perfect for casual players.
               </li>
             </ul>
-            <button className="px-6 py-3 bg-green-500 text-center text-white rounded-md cursor-pointer hover:scale-95 transition-transform font-semibold flex items-center gap-2">
+            <button className="w-fit px-6 py-3 bg-green-500 mt-2 text-white rounded-md cursor-pointer hover:scale-95 transition-transform font-semibold flex items-center gap-2">
               Get ID & Play Live Casino
             </button>
           </div>
-          <div className="w-full max-w-5xl mx-auto px-4 py-10">
+          <div className="w-full max-w-5xl mx-auto px-4 py-2">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
               {/* Text Block */}
               <div className="w-full">
@@ -593,7 +616,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="w-full max-w-4xl mx-auto px-4 py-10">
+          <div className="w-full max-w-4xl mx-auto px-4 py-2">
             <h2 className="text-xl md:text-2xl font-medium text-amber-500 text-center px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
               Choose Your Mahadev Book ID Type
             </h2>
@@ -635,7 +658,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="w-full max-w-5xl mx-auto px-4 py-10">
+          <div className="w-full max-w-5xl mx-auto px-4 py-2">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
               {/* Text Content */}
               <div className="w-full">
@@ -784,7 +807,7 @@ export default function Home() {
             </p>
             <div className="h-28 w-full bg-red-600"></div>
           </div>
-          <div className="w-full max-w-6xl mx-auto px-4 py-10">
+          <div className="w-full max-w-6xl mx-auto px-4 py-2">
             <h2 className="text-xl md:text-2xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-6">
               What We Offer – Key Features
             </h2>
@@ -868,7 +891,7 @@ export default function Home() {
             >
               Our Mahadev Book Gameplay Mode
             </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
               <div>
                 <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
                   How to Deposit Fund
@@ -952,7 +975,7 @@ export default function Home() {
             >
               Login to Your Mahadev BookAccount
             </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
               <div>
                 <h2 className="text-xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-4">
                   Mahadev Book 247 Login
@@ -1262,7 +1285,7 @@ export default function Home() {
               safe and responsible gaming—please gamble responsibly.
             </p>
           </div>
-          <div className="w-full max-w-6xl mx-auto px-4 py-10">
+          <div className="w-full max-w-6xl mx-auto px-4 py-2">
             <h2 className="text-xl md:text-2xl font-medium text-center text-amber-500 px-4 py-2 border-2 border-amber-500 rounded-bl-3xl rounded-tr-3xl mb-6">
               Mahadev Book Official News & Updates
             </h2>
