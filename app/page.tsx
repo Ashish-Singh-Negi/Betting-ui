@@ -1376,7 +1376,7 @@ export default function Home() {
                   date: "November 7, 2025",
                   excerpt:
                     "Online betting in India has become more exciting than ever — and Winfast99 is leading the way with its simple, secure, and fast registration.",
-                  imgUrl: "/Pic7.jpeg",
+                  imgUrl: "/Pic7.png",
                 },
                 {
                   title:
