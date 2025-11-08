@@ -778,7 +778,7 @@ export default function Home() {
               </div>
 
               {/* Visual Block */}
-              <img src="/" alt="img" />
+              <img src="/Pic5.png" alt="img" />
             </div>
           </div>
           <div className="w-full">
@@ -1013,7 +1013,10 @@ export default function Home() {
             <p className="text-gray-200 text-center -mt-2">
               We Support Easy, Trusted Payment Options for Your Convenience
             </p>
-            <div className="h-28 w-full mt-4"></div>
+            <div className="w-full mt-4 flex text-xl md:text-3xl justify-evenly">
+              <span>Paytm</span>|<span>Gpay</span>|<span>PhonePe</span>|
+              <span>UPI</span>
+            </div>
           </div>
 
           <div className="w-full">
@@ -1365,8 +1368,7 @@ export default function Home() {
                   date: "November 7, 2025",
                   excerpt:
                     "Online betting in India has become more exciting than ever — and Winfast99 is leading the way with its simple, secure, and fast registration.",
-                  imgUrl:
-                    "https://mahadevbooks.net/wp-content/uploads/2025/11/How-to-create-verifiy-your-mahadev-book-id-trusted-platform-300x200.webp",
+                  imgUrl: "/Pic6.png",
                 },
                 {
                   title:

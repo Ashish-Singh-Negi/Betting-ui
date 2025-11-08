@@ -114,13 +114,6 @@ const Footer = () => {
                 </a>
               ))}
             </div>
-            <p className="font-medium mb-2">Download the App Now</p>
-            <div className="size-40 rounded-md">
-              <img
-                src="https://Win99books.net/wp-content/uploads/2025/11/Win99-Book-Mobile-App-Download-1007x1024.jpg"
-                alt="qr"
-              />
-            </div>
           </div>
         </div>
       </section>
