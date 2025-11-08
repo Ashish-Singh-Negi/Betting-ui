@@ -1376,8 +1376,7 @@ export default function Home() {
                   date: "November 7, 2025",
                   excerpt:
                     "Online betting in India has become more exciting than ever — and Winfast99 is leading the way with its simple, secure, and fast registration.",
-                  imgUrl:
-                    "https://mahadevbooks.net/wp-content/uploads/2025/11/Get-instant-mahadev-book-id-step-by-step-300x200.webp",
+                  imgUrl: "/Pic7.jpeg",
                 },
                 {
                   title:
