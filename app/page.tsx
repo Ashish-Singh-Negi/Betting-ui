@@ -1384,8 +1384,7 @@ export default function Home() {
                   date: "November 7, 2025",
                   excerpt:
                     "Online betting has become a favourite pastime for millions of Indian players — and Winfast99 stands at the center of it all.",
-                  imgUrl:
-                    "https://mahadevbooks.net/wp-content/uploads/2025/11/mahadev-book-Official-website-register-login-start-betting-300x200.webp",
+                  imgUrl: "/Pic8.png",
                 },
               ].map((news, idx) => (
                 <div
