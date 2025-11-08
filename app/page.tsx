@@ -348,10 +348,6 @@ export default function Home() {
                 Android 5.0+ | iOS 11.0+ <br /> App Size: 25 MB <br /> Desktop –
                 Windows & Mac (64-bit) Recommended.
               </p>
-              <p className="my-2 font-medium">
-                Scan the QR Code for Direct App Download
-              </p>
-
               <a
                 href={`https://wa.me/447447800467`}
                 className="w-fit px-6 py-2 bg-green-500 text-sm text-center mt-6 rounded-md cursor-pointer hover:scale-95 transition-transform flex items-center gap-2"
