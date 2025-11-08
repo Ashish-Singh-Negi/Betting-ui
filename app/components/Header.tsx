@@ -22,10 +22,10 @@ const Header = () => {
           href={`https://wa.me/447447800467`}
           className="px-4 py-2 rounded-lg bg-yellow-500 text-black font-medium hover:scale-95 hover:bg-gray-500 transition-transform cursor-pointer"
         >
-          Get Mahadev Id
+          Get Winfast99 Id
         </a>
         <a
-          href={`https://wa.me/447447800467`}
+          href={`https://Winfast99.com`}
           className="px-4 py-2 rounded-lg bg-yellow-500 text-black font-medium hover:scale-95 hover:bg-gray-500 transition-transform cursor-pointer"
         >
           Login

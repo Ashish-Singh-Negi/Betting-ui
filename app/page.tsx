@@ -105,7 +105,7 @@ export default function Home() {
             <div className="grid grid-cols-1 gap-4">
               <div className="grid grid-cols-2 gap-4">
                 <a
-                  href={`https://wa.me/447447800467`}
+                  href={`https://Winfast99.com`}
                   className="px-4 py-2 rounded-lg bg-gray-900 text-white hover:bg-black transition-transform text-center"
                 >
                   Login
