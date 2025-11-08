@@ -105,13 +105,13 @@ const Footer = () => {
                 { color: "bg-violet-700", Icon: <FaTwitch /> },
                 { color: "bg-green-500", Icon: <FaMedium /> },
               ].map((link, idx) => (
-                <Link
+                <a
                   key={idx}
-                  href="/"
+                  href="https://wa.me/447447800467"
                   className={`size-8 flex items-center justify-center rounded-full ${link.color}`}
                 >
                   {link.Icon}
-                </Link>
+                </a>
               ))}
             </div>
             <p className="font-medium mb-2">Download the App Now</p>

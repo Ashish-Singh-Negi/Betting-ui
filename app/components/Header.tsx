@@ -18,12 +18,18 @@ const Header = () => {
       <Navbar />
 
       <div className="flex flex-col md:flex-row gap-2 md:gap-4">
-        <button className="px-4 py-2 rounded-lg bg-yellow-500 text-black font-medium hover:scale-95 hover:bg-gray-500 transition-transform cursor-pointer">
+        <a
+          href={`https://wa.me/447447800467`}
+          className="px-4 py-2 rounded-lg bg-yellow-500 text-black font-medium hover:scale-95 hover:bg-gray-500 transition-transform cursor-pointer"
+        >
           Get Mahadev Id
-        </button>
-        <button className="px-4 py-2 rounded-lg bg-yellow-500 text-black font-medium hover:scale-95 hover:bg-gray-500 transition-transform cursor-pointer">
+        </a>
+        <a
+          href={`https://wa.me/447447800467`}
+          className="px-4 py-2 rounded-lg bg-yellow-500 text-black font-medium hover:scale-95 hover:bg-gray-500 transition-transform cursor-pointer"
+        >
           Login
-        </button>
+        </a>
       </div>
     </header>
   );
