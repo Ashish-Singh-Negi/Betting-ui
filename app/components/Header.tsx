@@ -6,11 +6,11 @@ const Header = () => {
     <header className="h-auto md:h-28 w-full bg-black text-white px-10 py-4 flex flex-col md:flex-row md:justify-between md:items-center gap-4">
       <div className="flex justify-between items-center w-full md:w-auto">
         <Image
-          src={"/LOGO.png"}
+          src={"/Logo1.png"}
           alt="banner"
-          width={160}
+          width={240}
           height={60}
-          className="size-14 md:size-16 lg:size-20 mx-auto md:mx-0"
+          className="h-14 md:h-16 lg:h-20 mx-auto md:mx-0"
         />
         {/* Optional: Hamburger menu for mobile */}
       </div>
